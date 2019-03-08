@@ -1,2 +1,4 @@
 # sql
-sqlzoo solutions
+* sqlzoo solutions
+* introduction to sqllite3
+* sqllite3 exercises
